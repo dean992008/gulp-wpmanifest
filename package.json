@@ -1,0 +1,23 @@
+{
+  "name": "gulp-wpmanifest",
+  "version": "0.1.0",
+  "description": "Gulp Plugin for automatically create a Wordpress manifest and write it at the beginning of the target .css file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dean992008/gulp-wpmanifest.git"
+  },
+  "keywords": [
+    "Gulp",
+    "Wordpress"
+  ],
+  "author": "Dmitry Miroshnichenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dean992008/gulp-wpmanifest/issues"
+  },
+  "homepage": "https://github.com/dean992008/gulp-wpmanifest#readme"
+}
