@@ -1,4 +1,4 @@
-# gulp-sass
+# gulp-wpmanifest
 
  Gulp Plugin for automatically create a Wordpress manifest and write it at the beginning of the target .css file.
 
