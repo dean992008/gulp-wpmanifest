@@ -1,6 +1,6 @@
 {
   "name": "gulp-wpmanifest",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Gulp Plugin for automatically create a Wordpress manifest and write it at the beginning of the target .css file.",
   "main": "index.js",
   "scripts": {
