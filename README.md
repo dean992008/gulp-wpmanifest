@@ -18,8 +18,8 @@ yarn add gulp-wpmanifest
 ```javascript
 'use strict';
 
-let gulp = require('gulp');
-let wpmanifest = require("gulp-wpmanifest");
+const gulp = require('gulp');
+const wpmanifest = require("gulp-wpmanifest");
 
 gulp.task('defualt', ()=>{
 	gulp.src('./*.css')
